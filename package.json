@@ -25,7 +25,7 @@
     "momen": "0.0.1-security",
     "moment": "^2.27.0",
     "mongoose": "^5.9.27",
-    "multer": "^1.4.2",
+    "multer": "^2.0.0",
     "nodemon": "^2.0.6",
     "regex": "^0.1.1",
     "socket.io": "^3.0.3",
